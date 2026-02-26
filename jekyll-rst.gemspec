@@ -1,8 +1,8 @@
-require_relative 'lib/jekyll/rst_ng/version'
+require_relative 'lib/jekyll/rst/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "jekyll-rst_ng"
-  spec.version       = RstNg::VERSION
+  spec.name          = "jekyll-rst"
+  spec.version       = Jekyll::Rst::VERSION
   spec.authors       = ["Justin Jereza"]
   spec.email         = ["justinjereza@gmail.com"]
 

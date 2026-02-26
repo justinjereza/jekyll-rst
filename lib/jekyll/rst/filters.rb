@@ -1,4 +1,4 @@
-require "jekyll/rst_ng/version"
+require "jekyll/rst/version"
 require "rbst"
 require "jekyll"
 
