@@ -8,5 +8,6 @@
 /tmp/
 /vendor
 /bin/console
+*.sw[po]
 *.pyc
 __pycache__
