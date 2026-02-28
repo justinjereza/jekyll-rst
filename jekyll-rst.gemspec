@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require_relative "lib/jekyll/rst/version"
+require_relative "lib/jekyll-rst/version"
 
 Gem::Specification.new do |spec|
   spec.name = "jekyll-rst"
